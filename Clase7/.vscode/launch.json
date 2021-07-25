@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-SaludoApplication<saludo>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.soaint.saludo.SaludoApplication",
+            "projectName": "saludo",
+            "args": ""
+        }
+    ]
+}
